@@ -1,0 +1,4 @@
+.idea
+.venv
+emnist_test.py
+__pycache__
